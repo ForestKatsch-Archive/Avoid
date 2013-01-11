@@ -1,0 +1,15 @@
+
+@import "reset.css";
+@import "support.css";
+
+html,body {
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+}
+
+body {
+    background-color: #36C347;
+    font-family: monospace;
+}
+
