@@ -1,0 +1,20 @@
+
+.power {
+    background-color: #fff;
+    height: 25px;
+    position: absolute;
+    width: 25px;
+    z-index: 100;
+}
+
+.power.power-type-0 {
+    background-color: #FFF400;
+    border: 1px solid #9D9605;
+    border-radius: 20px;
+}
+
+.power.power-type-1 {
+    background-color: #07FF00;
+    border: 2px solid black
+    border-radius: 2px;
+}

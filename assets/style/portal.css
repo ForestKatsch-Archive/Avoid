@@ -1,0 +1,18 @@
+
+.portal {
+    border-radius: 1000px;
+    box-shadow: 0 0 5px #555;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    z-index: 100;
+}
+
+.portal.portal-type-in {
+    background-color: #2AADBA;
+}
+
+.portal.portal-type-out {
+    background-color: #FF8626;
+}
+
